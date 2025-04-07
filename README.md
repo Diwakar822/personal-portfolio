@@ -7,7 +7,7 @@ This is a responsive **Personal Portfolio Website** created using **HTML, CSS, a
 ## 🌐 Live Demo
 
 🔗 https://diwakar-portfolios.netlify.app/
-_(Replace with your actual link)_
+
 
 ---
 
